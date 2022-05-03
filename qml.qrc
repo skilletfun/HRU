@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>IconButton.qml</file>
+        <file>add.png</file>
+        <file>checked.png</file>
+        <file>logout.png</file>
+        <file>remove.png</file>
+        <file>matrix.png</file>
+    </qresource>
+</RCC>
